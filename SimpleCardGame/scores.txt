@@ -1,0 +1,4 @@
+Anne 5
+Linn 2
+Ole 3
+Tom 4
